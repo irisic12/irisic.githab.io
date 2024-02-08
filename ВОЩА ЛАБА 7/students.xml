@@ -1,0 +1,363 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <FIO>Сергеев Сергей Сергеевич</FIO>
+    <Course>1</Course>
+    <Group>1</Group>
+    <Exams>
+      <Exam>
+        <Subject>Математический анализ</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Дискретная математика</Subject>
+        <Mark>4</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Линейная алгебра</Subject>
+        <Mark>4</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Аналитическая геометрия</Subject>
+        <Mark>4</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Программирование</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>История</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Русский язык</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Литература</Subject>
+        <Mark>4</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Культурология</Subject>
+        <Mark>4</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Алгоритмы</Subject>
+        <Mark>5</Mark>
+      </Exam>
+    </Exams>
+    <EducationForm>1</EducationForm>
+  </Student>
+  <Student>
+    <FIO>Евгеньева Евгения Евгеньевна</FIO>
+    <Course>2</Course>
+    <Group>2</Group>
+    <Exams>
+      <Exam>
+        <Subject>Математический анализ</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Дискретная математика</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Линейная алгебра</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Аналитическая геометрия</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Программирование</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>История</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Русский язык</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Литература</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Культурология</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Алгоритмы</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>ИИТОН</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Вебвёрстка</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Дифференциальные уравнения</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Математическая логика</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Математические методы</Subject>
+        <Mark>4</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Интеграционные системы</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>ЯСП</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>ВСП</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Телекоммуникации</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Структуры</Subject>
+        <Mark>5</Mark>
+      </Exam>
+    </Exams>
+    <EducationForm>0</EducationForm>
+  </Student>
+  <Student>
+    <FIO>Александров Александр Александрович</FIO>
+    <Course>2</Course>
+    <Group>3</Group>
+    <Exams>
+      <Exam>
+        <Subject>Математический анализ</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Дискретная математика</Subject>
+        <Mark>4</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Линейная алгебра</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Аналитическая геометрия</Subject>
+        <Mark>4</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Программирование</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>История</Subject>
+        <Mark>4</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Русский язык</Subject>
+        <Mark>4</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Литература</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Культурология</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Алгоритмы</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>ИИТОН</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Вебвёрстка</Subject>
+        <Mark>4</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Дифференциальные уравнения</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Математическая логика</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Математические методы</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Интеграционные системы</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>ЯСП</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>ВСП</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Телекоммуникации</Subject>
+        <Mark>4</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Структуры</Subject>
+        <Mark>5</Mark>
+      </Exam>
+    </Exams>
+    <EducationForm>0</EducationForm>
+  </Student>
+  <Student>
+    <FIO>Иванов Иван Иванович</FIO>
+    <Course>2</Course>
+    <Group>1</Group>
+    <Exams>
+      <Exam>
+        <Subject>Математический анализ</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Дискретная математика</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Линейная алгебра</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Аналитическая геометрия</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Программирование</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>История</Subject>
+        <Mark>2</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Русский язык</Subject>
+        <Mark>4</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Литература</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Культурология</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Алгоритмы</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>ИИТОН</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Вебвёрстка</Subject>
+        <Mark>4</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Дифференциальные уравнения</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Математическая логика</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Математические методы</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Интеграционные системы</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>ЯСП</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>ВСП</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Телекоммуникации</Subject>
+        <Mark>4</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Структуры</Subject>
+        <Mark>5</Mark>
+      </Exam>
+    </Exams>
+    <EducationForm>0</EducationForm>
+  </Student>
+  <Student>
+    <FIO>Дмитриев Дмитрий Дмитриевич</FIO>
+    <Course>1</Course>
+    <Group>5</Group>
+    <Exams>
+      <Exam>
+        <Subject>Математический анализ</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Дискретная математика</Subject>
+        <Mark>4</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Линейная алгебра</Subject>
+        <Mark>4</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Аналитическая геометрия</Subject>
+        <Mark>3</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Программирование</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>История</Subject>
+        <Mark>4</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Русский язык</Subject>
+        <Mark>4</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Литература</Subject>
+        <Mark>2</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Культурология</Subject>
+        <Mark>5</Mark>
+      </Exam>
+      <Exam>
+        <Subject>Алгоритмы</Subject>
+        <Mark>3</Mark>
+      </Exam>
+    </Exams>
+    <EducationForm>0</EducationForm>
+  </Student>
+</ArrayOfStudent>

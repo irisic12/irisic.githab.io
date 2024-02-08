@@ -1,0 +1,12 @@
+C:\Users\79005\Desktop\uthf\ВОЩА ЛАБА 7\ВОЩА ЛАБА 7\bin\Debug\шарпы7.exe.config
+C:\Users\79005\Desktop\uthf\ВОЩА ЛАБА 7\ВОЩА ЛАБА 7\bin\Debug\шарпы7.exe
+C:\Users\79005\Desktop\uthf\ВОЩА ЛАБА 7\ВОЩА ЛАБА 7\bin\Debug\шарпы7.pdb
+C:\Users\79005\Desktop\uthf\ВОЩА ЛАБА 7\ВОЩА ЛАБА 7\obj\Debug\ВОЩА ЛАБА 7.csproj.AssemblyReference.cache
+C:\Users\79005\Desktop\uthf\ВОЩА ЛАБА 7\ВОЩА ЛАБА 7\obj\Debug\ВОЩА ЛАБА 7.csproj.SuggestedBindingRedirects.cache
+C:\Users\79005\Desktop\uthf\ВОЩА ЛАБА 7\ВОЩА ЛАБА 7\obj\Debug\StudentGUI.MainForm.resources
+C:\Users\79005\Desktop\uthf\ВОЩА ЛАБА 7\ВОЩА ЛАБА 7\obj\Debug\StudentGUI.StudentForm.resources
+C:\Users\79005\Desktop\uthf\ВОЩА ЛАБА 7\ВОЩА ЛАБА 7\obj\Debug\шарпы7.Properties.Resources.resources
+C:\Users\79005\Desktop\uthf\ВОЩА ЛАБА 7\ВОЩА ЛАБА 7\obj\Debug\ВОЩА ЛАБА 7.csproj.GenerateResource.cache
+C:\Users\79005\Desktop\uthf\ВОЩА ЛАБА 7\ВОЩА ЛАБА 7\obj\Debug\ВОЩА ЛАБА 7.csproj.CoreCompileInputs.cache
+C:\Users\79005\Desktop\uthf\ВОЩА ЛАБА 7\ВОЩА ЛАБА 7\obj\Debug\шарпы7.exe
+C:\Users\79005\Desktop\uthf\ВОЩА ЛАБА 7\ВОЩА ЛАБА 7\obj\Debug\шарпы7.pdb
